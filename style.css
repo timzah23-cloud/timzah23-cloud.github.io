@@ -1,0 +1,83 @@
+p {
+color: red;
+  front-size: 15px;
+}
+body {
+background-color: #e6ca6a
+}
+margin-top: 20px
+margin-right: 20px
+margin-bottom: 20px
+margin-left: 20px
+
+background-image: urk('https://i.postimg.cc/K8v0y81M/single-yellow-potato-closeup-studio-shot-191095-85935.avif');
+background-attachment: fixed;
+background-size: 535px
+background no-repeat;
+background-position: 50000px 10px;
+
+ul {
+  padding: 15px;
+  margin: 3 px;
+  background: #bdad80;
+  list-style: square;
+}
+ul il {
+  padding: 5px;
+  margin: 5px 15px;
+  bakground: #f2985c;
+}
+
+ol {
+  padding: 15px;
+  margin: 3px
+  background: #2e5cd8;
+  list-style: lower-roman;   
+}
+ol li {
+  padding: 5px;
+  margin: 5px 15px;
+  background: #e0a314;
+}
+ul, il {
+margin: 0;
+padding;0;
+}
+
+il{
+float: left;
+width: auto;
+}
+p {
+ padding: 15;
+ margin 15px;
+}
+.custom-class {
+  background-color: #42b0ff;
+  border: 4px duble blak;
+}
+#custom-id {
+  background-color: #42b0ff
+  border: 4px outset #afdeff
+  }
+h2 {
+  margin: auto;
+}
+div{
+  margin-top:2px
+  text-align: center
+}
+#container {
+  width: auto;
+}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Pacifico&display=swap');
+</style>
+  h1,h2,h3,h4,h5, {
+    front-famyly: 'Caveat',sans-serif;
+    front-weight: 600;
+  }
+p{
+  front-famyly: 'Caveat'
+}
+  
